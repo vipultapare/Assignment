@@ -1,0 +1,33 @@
+[
+  {
+    "name": "SparX",
+    "discription": "Sparx Shoes is a popular Australian footwear brand known for its high-quality, comfortable, and stylish shoes. The brand offers a wide range of products, including sneakers, boots, sandals, and more, for both men and women. Sparx Shoes is particularly famous for its affordable prices, making it a favorite among consumers. The brand is also recognized for its innovative designs, using cutting-edge technology to create shoes that are both fashionable and functional.",
+    "image": "https://m.media-amazon.com/images/I/71u2XOFXAIL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "2400",
+    "rating": "8.0/10.0"
+  },
+
+  {
+    "name": "Puma",
+    "discription": "Puma is a popular German multinational company that designs and manufactures athletic and casual footwear, apparel, and accessories. The brand is known for its high-quality shoes, particularly in the categories of running, training, and lifestyle. Puma shoes are worn by professional athletes and fitness enthusiasts alike, offering a range of styles and designs to suit different tastes and preferences.  ",
+    "image": "https://m.media-amazon.com/images/I/51GOpp8rAJL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "3000",
+    "rating": "7.2/10.0"
+  },
+
+  {
+    "name": "Campus",
+    "discription": "Campus shoes are a type of casual footwear designed for everyday wear, particularly popular among students and young adults. They typically feature a sleek and modern design, breathable materials, and a comfortable fit. Campus shoes often have a relaxed or slip-on style, making them easy to slip on and off. Brands such as Vans, Converse, and TOMS are well-known for their campus shoes. These shoes are perfect for casual outings, walking around campus, or just lounging with friends.",
+    "image": "https://m.media-amazon.com/images/I/61ePa5fEKnL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "2000",
+    "rating": "9.5.0/10.0"
+  },
+
+  {
+    "name": "Reebok",
+    "discription": "Reebok is a leading global athletic footwear and apparel company, founded in 1895. The brand is known for its high-quality and innovative products, catering to diverse fitness needs and lifestyles. Reebok shoes are popular for their comfort, style, and performance. The company offers a wide range of products, including running, CrossFit, and yoga shoes, as well as classic and fashion-inspired designs. With a global presence, Reebok collaborates with popular celebrities and athletes, providing exclusive shoe designs and training programs.",
+    "image": "https://m.media-amazon.com/images/I/81UEKD1LteL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "3500",
+    "rating": "9.0/10.0"
+  }
+]

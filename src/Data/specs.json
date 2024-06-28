@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Ukoptica",
+    "discription": "UK Optica is a leading provider of high-quality ophthalmic lenses and frames. If you're looking for specs (spectacles or prescription glasses) from UK Optica, here are some key details: They offer a range of lens materials, including single vision, progressive, and photochromic options. Their frames cater to different face shapes and styles, from classic to trendy designs. You can also customize your specs with personalized coatings and tints.",
+    "image": "https://m.media-amazon.com/images/I/61oaSJxaxDL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "240",
+    "rating": "8.0/10.0"
+  },
+
+  {
+    "name": "Creature",
+    "discription": "Fascinating topic! When you ask about creature specs, I assume you're referring to the characteristics or features that define a particular creature. In biology, these specs can include traits such as genus, species, habitat, diet, physical attributes (e.g., size, coloration, body shape), and behavioral patterns. Creature specs can be used to identify, classify, and study various organisms, from insects to mammals, helping scientists understand their adaptations, interactions, and roles in ecosystems. ",
+    "image": "https://m.media-amazon.com/images/I/41CN2yf5jkL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "300",
+    "rating": "7.2/10.0"
+  },
+
+  {
+    "name": "Dervin",
+    "discription": "Dervish specs! A Dervish is a breed of horse known for its striking appearance and athletic abilities. They are typically chestnut or bay in color and possess a distinctive crescent-shaped marking on their forehead. Dervishes are often used for endurance riding, show jumping, and other equestrian disciplines. They are also cherished for their friendly and curious nature. The breed originated in Spain and is now found worldwide.",
+    "image": "https://m.media-amazon.com/images/I/51XgKJxG5KS._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "450",
+    "rating": "9.5.0/10.0"
+  },
+
+  {
+    "name": "Creek",
+    "discription": "The term Creek specs likely refers to specifications or details about creeks, which are natural flowing bodies of water. Creeks are typically smaller than rivers and are often fed by underground springs or tributaries. Depending on the source, a creek can range from a small, temporary stream to a larger, more permanent watercourse. Key specs for creeks might include flow rate, water quality, depth, and width. ",
+    "image": "https://m.media-amazon.com/images/I/51HioWo8rVL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "300",
+    "rating": "9.0/10.0"
+  }
+]

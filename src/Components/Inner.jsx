@@ -3,15 +3,15 @@ import Container from "./Container";
 import Aos from "aos";
 import "aos/dist/aos.css";
 
-const SubMain = () => {
+const Inner = ({ data, title }) => {
   useEffect(() => {
     Aos.init({ duration: 1000 });
   }, []);
   return (
-    <div className="col-span-11 p-2 ml-5" data-aos="fade-down-left">
-      <Container title={"Latest"} />
+    <div className="col-span-11" data-aos="fade-right">
+      <Container title={title} data={data} />
     </div>
   );
 };
 
-export default SubMain;
+export default Inner;

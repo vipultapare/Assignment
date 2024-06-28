@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Cloths",
+    "childrens": [
+      {
+        "title": "Men",
+        "icon": "https://icons.iconarchive.com/icons/custom-icon-design/flatastic-7/512/Male-icon.png",
+        "path": "/men"
+      },
+      {
+        "title": "Women",
+        "icon": "https://cdn0.iconfinder.com/data/icons/creative-medical-pack-i/512/23-512.png",
+        "path": "/women"
+      }
+    ]
+  },
+  {
+    "title": "Electronics",
+    "childrens": [
+      {
+        "title": "Laptop",
+        "icon": "https://i.pinimg.com/474x/13/c3/e1/13c3e10fb7b270239142f84afd30e6dd.jpg",
+        "path": "/login"
+      },
+      {
+        "title": "Mobile",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Mobile-Smartphone-icon.png",
+        "path": "/register"
+      }
+    ]
+  }
+]

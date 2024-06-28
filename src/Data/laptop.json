@@ -1,0 +1,33 @@
+[
+  {
+    "name": "ACER Laptop",
+    "discription": "A laptop is a portable personal computer designed for mobile use. It typically features a keyboard, touchpad, and a flat-panel display. Laptops are ideal for individuals who need to work or study on-the-go. They often come with a range of features, including Wi-Fi connectivity, USB ports, and a battery life that can last several hours.",
+    "image": "https://m.media-amazon.com/images/I/41qGPk4nUML.AC_SX250.jpg",
+    "price": "45000",
+    "rating": "8.0/10.0"
+  },
+
+  {
+    "name": "Lenovo Laptop",
+    "discription": "Lenovo is a well-known Chinese technology company that produces a wide range of products, including laptops. Lenovo laptops, also known as IdeaPad and ThinkPad, are known for their durability, affordability, and innovative features. They cater to various needs, from basic computing to gaming and business use. ",
+    "image": "https://m.media-amazon.com/images/I/51y+3m+n-YL.AC_SX250.jpg",
+    "price": "68000",
+    "rating": "7.2/10.0"
+  },
+
+  {
+    "name": "HP Laptop",
+    "discription": "HP is a well-known brand in the world of laptops. They offer a wide range of laptops, from budget-friendly options to high-performance machines. HP laptops are known for their durability, comfort, and user-friendly interfaces. Some popular HP laptop models include the Envy, Pavilion, and Spectre. They also offer a variety of features such as long battery life, touch screens, and advanced security features.",
+    "image": "https://m.media-amazon.com/images/I/41Mr4FVBEmL.AC_SX250.jpg",
+    "price": "56000",
+    "rating": "9.5.0/10.0"
+  },
+
+  {
+    "name": "ASUS Laptop",
+    "discription": "ASUS is a well-known Taiwanese computer hardware and electronics company that produces a wide range of laptops. Their laptops are popular for their durability, performance, and affordability. ASUS laptops are available in various sizes, from compact ultrabooks to larger gaming laptops. They also offer a variety of features, such as long battery life, high-resolution displays, and advanced cooling systems.",
+    "image": "https://m.media-amazon.com/images/I/41l6mE-MJtL.AC_SX250.jpg",
+    "price": "48000",
+    "rating": "9.0/10.0"
+  }
+]

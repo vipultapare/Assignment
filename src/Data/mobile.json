@@ -1,0 +1,33 @@
+[
+  {
+    "name": "RedMi",
+    "discription": "The Redmi phone! A popular line of budget-friendly smartphones from Xiaomi, a Chinese technology company. Redmi phones are known for their impressive features, sleek designs, and affordable prices. They offer a range of models, from the budget-friendly Redmi 9 to the high-end Redmi K40. Redmi phones typically come with advanced cameras, fast charging capabilities, and powerful processors.",
+    "image": "https://m.media-amazon.com/images/I/71tCOhEigtL._AC_UY327_FMwebp_QL65_.jpg",
+    "price": "24000",
+    "rating": "8.0/10.0"
+  },
+
+  {
+    "name": "RealMe",
+    "discription": "Realme is a Chinese smartphone brand that was established in 2018. It is known for offering affordable and high-performance smartphones with impressive battery life. Realme phones typically run on the Android operating system and are popular among young consumers. Some of the popular Realme phone models include the Realme C series, Realme 5 series, and Realme Pro series. Realme phones are known for their features such as fast charging capabilities, AI-powered cameras, and modern design. ",
+    "image": "https://m.media-amazon.com/images/I/71nMx5PxibL._AC_UY327_FMwebp_QL65_.jpg",
+    "price": "30000",
+    "rating": "7.2/10.0"
+  },
+
+  {
+    "name": "POCO",
+    "discription": "Poco is a sub-brand of Xiaomi, a well-known technology company. Poco phones are designed to provide high-quality performance at an affordable price. They are known for their sleek designs, powerful processors, and advanced camera capabilities. Poco phones run on the Android operating system and offer a variety of features such as fingerprint recognition, facial recognition, and long-lasting battery life. They are popular among budget-conscious consumers who want a reliable and feature-rich smartphone without breaking the bank.",
+    "image": "https://m.media-amazon.com/images/I/51dGqSFNrDL._AC_UY327_FMwebp_QL65_.jpg",
+    "price": "20000",
+    "rating": "9.5.0/10.0"
+  },
+
+  {
+    "name": "OnePlus",
+    "discription": "OnePlus is a popular smartphone brand known for offering high-performance devices at affordable prices. OnePlus phones are often referred to as flagship killers due to their impressive specifications and timely software updates. They are available on multiple carriers worldwide, including AT&T, T-Mobile, and Verizon in the US, as well as a range of online retailers.",
+    "image": "https://m.media-amazon.com/images/I/61g1pqSjAhL._AC_UY327_FMwebp_QL65_.jpg",
+    "price": "30000",
+    "rating": "9.0/10.0"
+  }
+]

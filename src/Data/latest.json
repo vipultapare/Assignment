@@ -1,0 +1,33 @@
+[
+  {
+    "name": "HP Laptop",
+    "discription": "The 360-degree design makes sure you’re perfectly located in the frame for live meetings and conferences. The auto-frame technology automatically follows your movements to ensure you stay in focus throughout.",
+    "image": "https://in-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/7/y/7y6u8pa-3_t1680322610_1.png",
+    "price": "50000",
+    "rating": "8.0/10.0"
+  },
+
+  {
+    "name": "White Half Shirt",
+    "discription": "A mens shirt is a staple in every man's wardrobe! A classic piece of clothing that can be dressed up or down, depending on the occasion. There are various styles to choose from, including casual, formal, and smart casual. When shopping for a mens shirt, consider factors such as fabric, collar style, and sleeve length.",
+    "image": "https://assets.ajio.com/medias/sys_master/root/20231121/5RT6/655cde47ddf77915199314d4/-473Wx593H-466817674-white-MODEL.jpg",
+    "price": "450",
+    "rating": "7.2/10.0"
+  },
+
+  {
+    "name": "Reflex Play Plus",
+    "discription": "The word watch can have multiple meanings depending on the context. In general, a watch is a time-keeping device worn on the wrist or carried in a pocket. It can also refer to a period of time, such as watch the sunset. Additionally, watch can mean to observe or pay attention to something, like watch a movie or watch the news.",
+    "image": "https://www.fastrack.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwe3d103d7/images/Fastrack/Catalog/38077AP01_1.jpg?sw=800&sh=800",
+    "price": "4995",
+    "rating": "9.5.0/10.0"
+  },
+
+  {
+    "name": "Gold plated Bracelet",
+    "discription": "Jewelry is a popular form of personal adornment that has been used throughout history to express culture, wealth, and personal style. It can be made from a variety of materials, including gold, silver, diamonds, and precious gems. Jewelry can take many forms, such as necklaces, earrings, rings, and bracelets. ",
+    "image": "https://kinclimg5.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BIPM0025R22_YAA22XXXXXXXXXXXX_ABCD00-PICS-00001-1024-2701.jpg",
+    "price": "1000",
+    "rating": "9.0/10.0"
+  }
+]

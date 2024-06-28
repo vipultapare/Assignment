@@ -5,16 +5,16 @@ import cart from "../Assets/cart.png";
 import cancel from "../Assets/cancel.png";
 import { useDispatch, useSelector } from "react-redux";
 import { toggleMenu } from "../Utils/Redux/toggleSlice";
-import useCategory from "../Utils/Hooks/useCategory";
 
 const Header = () => {
-  useCategory();
   const dispatch = useDispatch();
   const toggleMenuHandler = () => {
     dispatch(toggleMenu());
   };
 
   const isMenuOpen = useSelector((store) => store.toggle.isMenuOpen);
+
+  const number = useSelector((store) => store.cart.items);
 
   return (
     <div className="flex justify-between bg-gradient-to-br from-gray-300 to-gray-400 shadow-gray-500 shadow-lg rounded-b-2xl">
@@ -43,11 +43,14 @@ const Header = () => {
         </h1>
       </div>
 
-      <img
-        className="h-12 w-15 mt-14 mr-10 cursor-pointer hover:scale-110"
-        src={cart}
-        alt="cart"
-      />
+      <div className="flex flex-col">
+        <img
+          className="h-12 w-15 mt-14 mr-10 cursor-pointer hover:scale-110"
+          src={cart}
+          alt="cart"
+        />
+        <h1 className="ml-5 text-sm font-semibold">{number}</h1>
+      </div>
     </div>
   );
 };

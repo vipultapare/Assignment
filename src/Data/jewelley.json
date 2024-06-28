@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Necklace",
+    "discription": "Necklaces are a popular type of jewelry that adorn the neck. They can be made from various materials such as precious stones, metals, and even beads. Necklaces can be simple and elegant or elaborate and ornate, depending on the design and craftsmanship. In many cultures, necklaces hold significant symbolic meaning, signifying status, wealth, or spiritual affiliations. They can also be a reflection of personal style and fashion sense.",
+    "image": "https://m.media-amazon.com/images/I/611915OD7RL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "2400",
+    "rating": "8.0/10.0"
+  },
+
+  {
+    "name": "Bangles",
+    "discription": "Bangles are a type of traditional jewelry that are typically worn on the wrist or arm. They are often made of metal, such as gold or silver, and may be decorated with enamel, gemstones, or other ornaments. Bangles can be found in a variety of styles, including western, Indian, and Middle Eastern designs. They are a popular accessory for both casual and formal wear, and can be worn by both men and women. Bangles are also a meaningful cultural symbol in many societies, often representing marital status, social status, or spiritual beliefs.",
+    "image": "https://m.media-amazon.com/images/I/61wASh1CSrL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "3000",
+    "rating": "7.2/10.0"
+  },
+
+  {
+    "name": "Ring",
+    "discription": "The term Ring can refer to various objects or concepts. In jewelry, a ring is a circular band worn on the finger, often as a symbol of commitment, love, or status. In sports, a ring can refer to a circular area or enclosure, such as a boxing ring or a wrestling ring. In mathematics, a ring is an algebraic structure consisting of a set of elements with two binary operations, addition and multiplication. In astronomy, a ring can describe a circular or annular structure surrounding a planet or moon.",
+    "image": "https://m.media-amazon.com/images/I/61-G5hl6hJL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "4500",
+    "rating": "9.5.0/10.0"
+  },
+
+  {
+    "name": "Earrings",
+    "discription": "Earrings are a type of jewelry worn in the ear to adorn or decorate the body. They come in various shapes, sizes, and materials, such as studs, drops, hoops, and tassels, made from metals like gold, silver, and platinum, as well as gemstones like diamonds, pearls, and rubies. Earrings can be simple and understated or elaborate and statement-making, depending on personal style and occasion. They are a popular accessory for both everyday wear and special events, and can be worn by both men and women.",
+    "image": "https://m.media-amazon.com/images/I/813fY7G1S8L._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "3000",
+    "rating": "9.0/10.0"
+  }
+]

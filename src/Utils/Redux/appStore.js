@@ -1,12 +1,17 @@
 import { configureStore } from "@reduxjs/toolkit";
 import toggleReducer from "./toggleSlice";
-import categoryReducer from './category';
+import cartReducer from "./cartSlice";
+
+
 
 const appStore = configureStore(
   {
     reducer:{
       toggle: toggleReducer,
-      category: categoryReducer,
+      cart: cartReducer,
+     
+     
+     
     }
   }
 );
