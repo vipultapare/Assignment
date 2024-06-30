@@ -16,8 +16,8 @@ https://shopper-one-lovat.vercel.app/
       - Men
       - Female
  - Electronics
-       - Laptop
-       - Mobile
+     - Laptop
+     - Mobile
  - Shoes
  - Specs
  - Jewellery
